@@ -37,4 +37,4 @@ The application features a responsive multi-module sidebar interface:
 ---
 
 ## 📦 Status
-This project is Discontinued and will not be finished in near future.
+This project is Discontinued and will not be finished in near future. Also This project was built with AI assistance as part of my learning journey
